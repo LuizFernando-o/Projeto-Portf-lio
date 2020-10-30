@@ -1,0 +1,31 @@
+
+.noBackground{
+    background-color: transparent;
+  
+    font-style: italic;    
+}
+.list-group{
+    background-color: transparent;
+}
+
+.post{
+    margin-bottom: 15px;   
+}
+
+.posts{
+    height: 600px;
+    overflow: auto;
+}
+
+.dropdown-item:hover{
+    background-color: indianred;
+}
+
+
+.body{
+    background-image: url(../img/background2.jpg);
+}
+
+.col-8{
+    color: aliceblue;
+}

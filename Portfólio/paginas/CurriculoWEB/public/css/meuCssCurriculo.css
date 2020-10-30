@@ -1,0 +1,34 @@
+@font-face{
+    font-family: "fonteTitulo";
+    src: url(../fonts/Exo2-Regular.otf);
+}
+@font-face{
+    font-family: "fonteLight";
+    src: url(../fonts/Exo2-Light.otf);
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "fonteTitulo";
+}
+p{
+    font-family: "fonteTitulo";
+}
+
+.nome{
+    font-size: 4rem;
+}
+
+.posts{
+    height: 900px;
+    overflow: auto;
+}
+
+.nav-link{
+  background-color: darksalmon;
+  color:wheat;
+  font-family: "fonteTitulo";
+}
+
+.body{
+    background-color: #fff3cd;
+}
