@@ -1,0 +1,26 @@
+inteligencia artificial:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLY5wdxPUvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+big data:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qN_-sltGFOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+jogos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPlH0aHq0PI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+quadrinhos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFsy7xfkgGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+finanças:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNU5IMQAdn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+ios:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeOTzCvUDSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+android:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSfT4j25-i0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+casas inteligentes:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2cLlApISl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+alexa:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KT_TsbMLFRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

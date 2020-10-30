@@ -1,0 +1,21 @@
+.styles_sobre{
+    height: 300px;
+    width: 600px;
+    background-image: linear-gradient(45deg, #58adcf 0%,  #243f81 100%);
+    border-radius: 40px; 
+}
+
+.imagens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img_sobre{
+    border-radius: 50%;
+}
+
+.descricao{
+    display: block !important;
+}
+
