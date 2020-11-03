@@ -6,3 +6,9 @@
 .nav-link {
     color: grey;
 }
+
+.h1Grande {
+    text-align: center;
+    color: grey;
+    font-size: 5rem;
+}

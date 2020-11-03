@@ -2,8 +2,8 @@
 <div class="container-fluid ">
     <div class="row">
 
-    <div class="col-4 text-center">
-    <img src="https://placehold.it/300x300" alt="" class="img-thumbnail img-fluid rounded-circle">
+    <div class="col-4 text-center align-self-center">
+   <h1 class="h1Grande">Meus principais projetos</h1>
     </div>
         <div class="col">
             <div class="card" style="width: 18rem;">

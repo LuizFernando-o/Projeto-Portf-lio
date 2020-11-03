@@ -62,15 +62,15 @@
             <div class="collapse navbar-collapse " id="conteudoNavbarSuportado">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link text-light" href="paginas/MusicStore/index.php?pg=inicial"> <span class="luiz-home3 text-light"></span>  Início
+                        <a class="nav-link text-light" href="musicIndex.php?pg=inicial"> <span class="luiz-home3 text-light"></span>  Início
                             <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link  text-light" href="paginas/MusicStore/index.php?pg=sobre"><span class="luiz-ask  text-light"></span>  Sobre <span class="sr-only">(página
+                        <a class="nav-link  text-light" href="musicIndex.php?pg=sobre"><span class="luiz-ask  text-light"></span>  Sobre <span class="sr-only">(página
                                 atual)</span></a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link  text-light" href="paginas/MusicStore/index.php?pg=produtos"> <span class="luiz-gift  text-light"></span>  Produtos
+                        <a class="nav-link  text-light" href="musicIndex.php?pg=produtos"> <span class="luiz-gift  text-light"></span>  Produtos
                             <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item active">
@@ -78,7 +78,7 @@
                                 atual)</span></a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link  text-light" href="paginas/MusicStore/index.php?pg=contato"> <span class="luiz-envelop  text-light"></span>  Contato <span class="sr-only">(página
+                        <a class="nav-link  text-light" href="musicIndex.php?pg=contato"> <span class="luiz-envelop  text-light"></span>  Contato <span class="sr-only">(página
                                 atual)</span></a>
                     </li>
 

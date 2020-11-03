@@ -3,13 +3,13 @@
     <div class="row alert-warning h-25">
         <div class="col-9"></div>
         <div class="col-1">
-            <a href="" class="btn luiz-facebook">Facebook</a>
+            <a target="blank" href="" class="btn luiz-facebook">Facebook</a>
         </div>
         <div class="col-1">
-            <a href="" class="btn luiz-instagram"> Istagram</a>
+            <a target="blank" href="" class="btn luiz-instagram"> Instagram</a>
         </div>
         <div class="col-1">
-            <a href="" class="btn luiz-github"> Github</a>
+            <a target="blank" href="" class="btn luiz-github"> Github</a>
         </div>
      
     </div>

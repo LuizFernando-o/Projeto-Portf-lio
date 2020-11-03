@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
 
     <!-- Meu css -->
-    <link rel="stylesheet" href="public/css/meuCss.css">
+    <link rel="stylesheet" href="public/css/portfolioCss.css">
 
 
     <title>Portfólio</title>
@@ -40,7 +40,7 @@
                     </li>
                 </ul>
 
-                <span class="navbar-text">
+                <span class="navbar-text text-secondary">
                     Portfólio atualizado periodicamente.
                 </span>
             </div>

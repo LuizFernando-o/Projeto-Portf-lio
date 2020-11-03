@@ -1,11 +1,6 @@
 <?php
 
-
 include_once "paginas/prointegrador/paginas/includes/header.php";
-
-
-
-
 
 include_once "paginas/prointegrador/paginas/inicial.php";
 
@@ -29,15 +24,5 @@ if ($paginas) {
     include_once "paginas/prointegrador/paginas/inicial.php";
 }
 
-
-
-
-
 include_once "paginas/prointegrador/paginas/sobre.php";
-
-
-
-
-
-
 include_once "paginas/prointegrador/paginas/includes/foother.php";

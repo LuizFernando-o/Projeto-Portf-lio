@@ -9,7 +9,7 @@
                     </ul>
                 </div>
                 <div class="col text-xl-center  pt-2">
-                    <img src="public/img/iconRodape.png" alt="" class="img-fluid rounded-circle">
+                    <img src="paginas/MusicStore/public/img/iconRodape.png" alt="" class="img-fluid rounded-circle">
                     <h4>Music store</h4>
                 </div>
                 <div class="col text-center">
