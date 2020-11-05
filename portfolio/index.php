@@ -21,8 +21,8 @@ if ($paginas) {
             include_once "paginas/projetos.php";
             break;
 
-        case 'contato':
-            include_once "paginas/contato.php";
+        case 'outros':
+            include_once "paginas/outros.php";
             break;
 
         default:

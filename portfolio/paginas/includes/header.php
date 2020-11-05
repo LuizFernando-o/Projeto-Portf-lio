@@ -39,7 +39,7 @@
                         <a class="nav-link" href="index.php?pg=projetos">Projetos</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.php?pg=contato">Contato</a>
+                        <a class="nav-link" href="index.php?pg=outros">Outros</a>
                     </li>
                 </ul>
 
