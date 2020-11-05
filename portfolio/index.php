@@ -13,8 +13,12 @@ if ($paginas) {
             include_once "paginas/inicio.php";
             break;
 
-        case 'resumo':
-            include_once "paginas/resumo.php";
+        case 'tecnologias':
+            include_once "paginas/tecnologias.php";
+            break;
+
+        case 'projetos':
+            include_once "paginas/projetos.php";
             break;
 
         case 'contato':

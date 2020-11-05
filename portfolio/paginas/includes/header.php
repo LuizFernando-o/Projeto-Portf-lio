@@ -30,10 +30,13 @@
 
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active text-right">
-                        <a class="nav-link" href="index.php?pg=resumo">Resumo <span class="sr-only"></span></a>
+                        <a class="nav-link" href="index.php?pg=tecnologias">Tecnologias <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="index.php?pg=portfolio">Portfólio</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.php?pg=projetos">Projetos</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="index.php?pg=contato">Contato</a>
