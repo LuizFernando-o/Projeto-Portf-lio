@@ -12,13 +12,13 @@
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
 
     <!-- Meu css -->
-    <link rel="stylesheet" href="public/css/portfolioCss.css">
+    <link rel="stylesheet" href="public/css/cssPortfolio.css">
 
 
     <title>Portfólio</title>
 </head>
 
-<body class="body">
+<body class="body alert-warning">
 
     <header>
         <div class="text-center">
@@ -28,24 +28,21 @@
         <nav class="navbar navbar-expand-lg navbar">
             <div class="collapse navbar-collapse" id="textoNavbar">
 
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active text-right">
-                        <a class="nav-link" href="index.php?pg=tecnologias">Tecnologias <span class="sr-only"></span></a>
+                <ul class="navbar-nav mr-auto ">
+                    <li class="nav-item active text-right mx-3">
+                        <a class="nav-link font-weight-bold text-white" href="index.php?pg=tecnologias">Tecnologias </a>
                     </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.php?pg=portfolio">Portfólio</a>
+                    <li class="nav-item active mx-3">
+                        <a class="nav-link font-weight-bold text-white" href="index.php?pg=portfolio">Portfólio</a>
                     </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.php?pg=projetos">Projetos</a>
+                    <li class="nav-item active mx-3">
+                        <a class="nav-link font-weight-bold text-white" href="index.php?pg=projetos">Projetos</a>
                     </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.php?pg=outros">Outros</a>
+                    <li class="nav-item active mx-3">
+                        <a class="nav-link font-weight-bold text-white" href="index.php?pg=outros">Outros</a>
                     </li>
                 </ul>
 
-                <span class="navbar-text text-secondary">
-                    Portfólio atualizado periodicamente.
-                </span>
             </div>
         </nav>
 

@@ -1,17 +1,18 @@
-<footer class="alert-warning">
+<footer class="bg-dark">
     <br>
-    <div class="row alert-warning h-25">
-        <div class="col-9"></div>
-        <div class="col-1">
-            <a target="blank" href="" class="btn luiz-facebook">Facebook</a>
+    <div class="row">
+        <div class="col"></div>
+        <div class="col">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col">
+                    <a target="blank4" href="https://www.facebook.com/vulgodizel" class=" btn text-white font-weight-bold"><span class="luiz-facebook"></span> Facebook</a>
+                    <a target="blank5" href="https://www.instagram.com/vulgodizel" class="btn text-white font-weight-bold"> <span class="luiz-instagram"></span> Instagram</a>
+                    <a target="blank6" href="https://github.com/LuizFernando-o" class="btn text-white font-weight-bold"> <span class="luiz-github"></span> Github</a>
+                </div>
+            </div>
         </div>
-        <div class="col-1">
-            <a target="blank" href="" class="btn luiz-instagram"> Instagram</a>
-        </div>
-        <div class="col-1">
-            <a target="blank" href="" class="btn luiz-github"> Github</a>
-        </div>
-     
+        <div class="col"></div>
     </div>
     <br>
 </footer>

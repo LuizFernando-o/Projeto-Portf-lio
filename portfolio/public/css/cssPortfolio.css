@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #343a40;
+    height: 4rem;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.nav-item:hover {
+    background-color: darkslategray;
+    border-radius: 10%;
+}
+
+.h1Grande {
+    text-align: center;
+    color: grey;
+    font-size: 5rem;
+}
+
+.btn:hover {
+    background-color: darkslategray;
+}
