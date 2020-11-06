@@ -29,3 +29,5 @@ include_once "paginas/CurriculoWEB/paginas/curriculo.php";
 
 //footer
 include_once "paginas/CurriculoWEB/paginas/includes/footer.php";
+
+include_once "paginas/botaoVoltar.php";

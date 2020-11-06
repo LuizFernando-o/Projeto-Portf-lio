@@ -73,3 +73,4 @@ if ($paginas) {
 
 //footer
 include_once "paginas/MusicStore/paginas/includes/footer.php";
+include_once "paginas/botaoVoltar.php";

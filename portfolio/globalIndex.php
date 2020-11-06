@@ -20,9 +20,11 @@ if ($paginas) {
         default:
             break;
     }
-}else{
+} else {
     include_once "paginas/prointegrador/paginas/inicial.php";
 }
 
 include_once "paginas/prointegrador/paginas/sobre.php";
 include_once "paginas/prointegrador/paginas/includes/foother.php";
+
+include_once "paginas/botaoVoltar.php";
