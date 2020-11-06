@@ -16,6 +16,7 @@
     </div>
     <br>
 </footer>
+</div>
 
 <!-- jQuery -->
 <script src="public/js/jquery-3.5.1.min.js"></script>
